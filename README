@@ -1,0 +1,4 @@
+1.am cautat in fiecare linie cuvantul si am facut un nou sir pe care il aloc cu memoria necesara pentru colorarea sirului
+2.iau fiecare cuvant pana la delimitator si daca se potriveste contorul cu vreun element din vectorul fields il pun in sirul nou si adaug delimitatorii
+3.creez o matrice noua in care pun mediile si indexul unde pot vedea momentul citirii fiecarei linii
+4.iau fiecare cuvant in parte pana la "space" si il codific in functie de prima litera decat daca nu e numar, apoi il afisez
